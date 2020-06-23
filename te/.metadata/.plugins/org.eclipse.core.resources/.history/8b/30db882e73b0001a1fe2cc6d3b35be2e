@@ -1,0 +1,11 @@
+package test;
+
+public class StackImpl implements IStack {
+
+	@Override
+	public void push() {
+		// TODO Auto-generated method stub
+
+	}
+
+}

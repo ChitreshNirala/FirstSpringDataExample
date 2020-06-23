@@ -1,0 +1,7 @@
+springbootvalidation\controller\UserController.class
+springbootvalidation\ValidationMain.class
+springbootvalidation\MovieRatingCollector.class
+springbootvalidation\model\Users.class
+springbootvalidation\MovieRatingCollector$RatingCollector.class
+springbootvalidation\repository\UserRepository.class
+springbootvalidation\MovieRatingCollector$RatingCollectorImpl.class
